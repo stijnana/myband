@@ -10,15 +10,15 @@ define('PROJECT_STATUS','development');
 setlocale(LC_ALL, 'nl_NL');
 
 //// databasegegevens
-define('DB_HOST','127.0.0.1');
-define('DB_NAME','18662_myband');
-define('DB_USERNAME','olthof');
-define('DB_PASSWORD','12345');
+define('DB_HOST','-----------');
+define('DB_NAME','-----------');
+define('DB_USERNAME','--------');
+define('DB_PASSWORD','---------');
 
-//define('DB_HOST','localhost');
-//define('DB_NAME','myGaming');
-//define('DB_USERNAME','root');
-//define('DB_PASSWORD','');
+//define('DB_HOST','----------');
+//define('DB_NAME','----------');
+//define('DB_USERNAME','-------');
+//define('DB_PASSWORD','-------');
 
 define('PNUMBER',3)
 
